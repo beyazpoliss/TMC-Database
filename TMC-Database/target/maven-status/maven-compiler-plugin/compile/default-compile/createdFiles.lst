@@ -1,0 +1,12 @@
+tr\beyazpolis\database\manager\LibManager.class
+tr\beyazpolis\database\registery\example\features\data\CoinShopData.class
+tr\beyazpolis\database\manager\RegisterManager.class
+tr\beyazpolis\database\registery\example\features\CoinShopFeature.class
+tr\beyazpolis\database\manager\ProfileManager.class
+tr\beyazpolis\database\manager\MongoManager.class
+tr\beyazpolis\database\profile\PlayerProfile.class
+tr\beyazpolis\database\manager\CollectionManager.class
+tr\beyazpolis\database\listener\PlayerListener.class
+tr\beyazpolis\database\registery\Feature.class
+tr\beyazpolis\database\registery\FeatureData.class
+tr\beyazpolis\database\TMCDatabase.class

@@ -1,0 +1,6 @@
+main: tr.beyazpolis.database.TMCDatabase
+author: BeyazPolis
+name: TMC-Database
+version: 1.0.0
+description: "BeyazPolisin yaptığı database sistemi"
+depend: [TMC-Librarys]
